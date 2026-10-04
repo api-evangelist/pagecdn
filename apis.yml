@@ -39,7 +39,6 @@ apis:
   - name: PageCDN
     description: "Public API for javascript, css and font libraries on PageCDN"
     humanURL: https://pagecdn.com/docs/public-api
-    baseURL: https://pagecdn.com/docs/public-api
     tags:
       - Development
     properties:
